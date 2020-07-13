@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-harsha/static/css/main.37764afe.chunk.css",
+    "main.js": "/monsters-harsha/static/js/main.99b3417c.chunk.js",
+    "main.js.map": "/monsters-harsha/static/js/main.99b3417c.chunk.js.map",
+    "runtime-main.js": "/monsters-harsha/static/js/runtime-main.fbc3d836.js",
+    "runtime-main.js.map": "/monsters-harsha/static/js/runtime-main.fbc3d836.js.map",
+    "static/js/2.7aaef059.chunk.js": "/monsters-harsha/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/monsters-harsha/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/monsters-harsha/index.html",
+    "precache-manifest.6b3e6aea38b326b5e303b213fe86dfee.js": "/monsters-harsha/precache-manifest.6b3e6aea38b326b5e303b213fe86dfee.js",
+    "service-worker.js": "/monsters-harsha/service-worker.js",
+    "static/css/main.37764afe.chunk.css.map": "/monsters-harsha/static/css/main.37764afe.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/monsters-harsha/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbc3d836.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.37764afe.chunk.css",
+    "static/js/main.99b3417c.chunk.js"
+  ]
+}
